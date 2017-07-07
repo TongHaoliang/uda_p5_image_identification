@@ -1,1 +1,1 @@
-# uda_p5_image_identification
+# image_classification
